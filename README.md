@@ -13,6 +13,19 @@
 ## Run tests:
 * `mvn clean verify`
 
+## CircleCI Integration
+Integrated with Circle CI, new commit to code will trigger API test 
+
+![circleci](https://user-images.githubusercontent.com/7127780/65894110-884c4e80-e3ec-11e9-8827-97ed668c0a70.PNG)
+
+
+
+![circleCIBuild](https://user-images.githubusercontent.com/7127780/65894257-c77a9f80-e3ec-11e9-9cd7-d5e59735056d.PNG)
+
+
+
+
+
 ## View HTML Report
 * HTML report will be generated once execution finish -bdd-cucumber\target\site\serenity
 * Open Index.html in browser to see the reports
