@@ -1,0 +1,9 @@
+io\weather\models\Result.class
+io\weather\utils\Constants.class
+io\weather\actions\WeatherBitActions.class
+io\weather\actions\ForecastActions.class
+io\weather\models\Weather.class
+io\weather\runners\WeatherBitAPITest.class
+io\weather\steps\ForecastStepDef.class
+io\weather\models\Forecast.class
+io\weather\steps\WeatherDataStep.class
