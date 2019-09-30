@@ -1,0 +1,2 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Verify GET Forecast API","Verify Current Forecast API with Valid data","SUCCESS","2019-09-30T22:11:37.311+10:00[Australia/Sydney]","0.0","9.33"
