@@ -9,7 +9,6 @@
 ## Setup:
 * Install [Java 8](http://www.oracle.com/technetwork/java/javase/overview/java8-2100321.html)
 * Install Maven [Maven](https://maven.apache.org/)
-* Install "natural plugin" using eclipse marketplace 
 
 ## Run tests:
 * `mvn clean verify`
